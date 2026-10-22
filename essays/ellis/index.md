@@ -2,7 +2,7 @@
 # Change these five lines as soon as you copy this starter.
 title: Your Essay Title
 author: Your Name
-category: Academic Buidling                 # change to a category from the student guide
+category: Academic Building              # change to a category from the student guide
 header-image: ellis-building.jpg
 header-caption: Replace with where your header image came from. Plain text only, no links.
 
