@@ -1,6 +1,6 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Your Essay Title
+title: The James & Gail Ellis School of Business Leadership 
 author: Ricardo Juarez
 category: Academic Building              # change to a category from the student guide
 header-image: ellis-building.jpg
