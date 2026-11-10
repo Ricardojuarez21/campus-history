@@ -4,7 +4,7 @@ title: The James & Gail Ellis School of Business Leadership
 author: Ricardo Juarez
 category: Academic Building              # change to a category from the student guide
 header-image: ellis-building.jpg
-header-caption: Replace with where your header image came from. Plain text only, no links.
+header-caption: The image came from google
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
