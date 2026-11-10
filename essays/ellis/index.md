@@ -78,7 +78,8 @@ Delete the carousel if you do not have a set of images that works this way. Thre
 
 ## Evidence
 
-Use this section to show readers a document, not just a photograph. Scanned letters, meeting minutes, ledgers, clippings, and blueprints all reward close looking, and they prove you spent time in the boxes.
+The university's 2018 announcement about the McKinnon Center is one useful starting point for examining the building's history. It records the opening date, the length of construction, the facility's size, and the services included in the project. These details help establish what the university intended the building to accomplish when it opened. The announcement also presents the center as a milestone, revealing how administrators described the importance of investment in business education at that time.
+
 
 <!-- Portrait documents are the exception to the full-width rule. A tall scan at 100%
      is over 1200px tall and swallows the screen, so center it and leave it near 55%.
@@ -88,7 +89,7 @@ Use this section to show readers a document, not just a photograph. Scanned lett
   class="img-center"
   width="55%"
   caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
-  image-path="sample-primary-source.jpg"
+  image-path="secondimagebuilding.jpg"
 %}
 
 Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
