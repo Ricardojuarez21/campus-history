@@ -39,9 +39,11 @@ Every image needs a caption, including this one. A caption should explain what t
 
 ## What Changed
 
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
+The McKinnon Center opened in May 2018, after an 18-month construction project. The new facility provided 63,445 square feet of space, including classrooms, technology services, a career planning and placement center, advising areas, a behavioral research laboratory, and a marketing center. UNM described the project as a major milestone for the business school.The building was made possible in part by a $7.5 million commitment from Sonnet and Ian McKinnon in 2018. Their gift supported three UNM programs: the business school, University Arena (known as The Pit), and the UNM Tennis Complex. The McKinnon Center was designed with student-focused services, collaborative study areas, and sustainability in mind, including standards associated with LEED Gold certification. These details show how philanthropy can influence not only a university's budget but also the spaces available for teaching and learning. The 2026 renaming added another layer to this history. The school had educated business students under the Anderson name since 1947, and that legacy did not disappear when the new name was announced. Instead, the Ellis name became the latest chapter in an institution that has changed through generations of students, faculty, donors, and administrators. The new commitment also emphasized scholarships and financial support, experiential learning, faculty development, and a curriculum responsive to changes in the economy. This history illustrates a larger pattern at UNM: major gifts can shape institutional priorities, support new facilities, and change how a university presents itself to the public. Such investments can create opportunities, but they also raise questions worth investigating. How are new resources distributed among students and programs? How will the university measure the gift's long-term effects? And how will it balance donor recognition with the school's older institutional identity?
 
-This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
+
+
+
 
 <!-- Carousel: use when you have three or more images that belong together but do not
      each need their own paragraph. Images are split on commas, captions on the | character.
