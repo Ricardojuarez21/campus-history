@@ -100,7 +100,10 @@ Explain what the document says, what it does not say, and how it fits the story.
 
 ## Why This History Matters
 
-End by returning to the present. How should readers see this campus place, person, organization, object, or event differently after reading your essay? Point to continued use, memory, loss, gaps in the archive, or campus change rather than announcing a conclusion.
+Today, the McKinnon Center remains an important part of the student experience at UNM's James & Gail Ellis School of Business Leadership. Its classrooms, advising services, and collaborative spaces support students as they prepare for careers in business and other professional fields. The building also preserves the legacy of the McKinnon family's investment, even as the school adopts a new name and a new philanthropic commitment.
+The change from Anderson to Ellis reveals how campus history develops through both continuity and change. The school retains a legacy of business education dating to 1947, while the 2018 building project and the 2026 gift represent two distinct moments when financial support helped shape its future. One strengthened the physical environment for learning; the other created an opportunity to expand educational resources and redefine the school's public identity.
+Understanding this history means looking beyond a building's name or a donor's contribution. It means asking how these investments affect students, what institutional values they express, and whose experiences are preserved in the university's historical record. The McKinnon Center is more than a campus building: it is a place where the history of philanthropy, education, and New Mexico's economic future continues to unfold.
+
 
 {% capture bibliography %}
 - Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
