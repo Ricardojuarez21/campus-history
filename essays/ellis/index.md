@@ -14,9 +14,8 @@ start:                                   # the year your story begins, shown on 
 layout: essay
 ---
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+The James & Gail Ellis School of Business Leadership at the University of New Mexico is part of a larger story about how a university prepares students to lead in business, serve their communities, and shape New Mexico’s economy. Located in the McKinnon Center, the school connects business education with the physical spaces where students learn, collaborate, and prepare for their careers. Looking at the school’s history raises important questions: How has business education at UNM changed over time, and what do the school’s building, leadership, and institutional history reveal about the university’s priorities?
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
 
 ## Main Story
 
