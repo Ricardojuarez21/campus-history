@@ -88,7 +88,7 @@ The university's 2018 announcement about the McKinnon Center is one useful start
 {% include images/figure.html
   class="img-center"
   width="55%"
-  caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
+  caption="Another picture of the James & Gail Ellis School of Business Leadership."
   image-path="secondimagebuilding.jpg"
 %}
 
