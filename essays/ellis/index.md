@@ -32,7 +32,7 @@ One of the most important moments in this history occurred on May 8, 2026, when 
   class="img-center"
   width="100%"
   caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
-  image-path="unamed-4.jpg"
+  image-path="ellis building 2.jpg"
 %}
 
 Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
