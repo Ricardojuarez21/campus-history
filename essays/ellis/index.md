@@ -107,7 +107,9 @@ Understanding this history means looking beyond a building's name or a donor's c
 
 {% capture bibliography %}
 1. University of New Mexico Newsroom. “University of New Mexico Receives Largest Gift in Its History.” May 8, 2026. https://news.unm.edu/news/university-of-new-mexico-receives-largest-gift-in-its-history .
+
 The James & Gail Ellis School of Business Leadership, University of New Mexico. “University of New Mexico Receives Largest Gift in Its History.” May 8, 2026. https://business.unm.edu/news/highlights/2026/05/unm-major-gift-to-business-school.html .
+
  University of New Mexico Newsroom. “Anderson School to Celebrate McKinnon Center for Management Ribbon-Cutting.” May 7, 2018. https://news.unm.edu/news/anderson-school-to-celebrate-mckinnon-center-for-management-ribbon-cutting .
 
 {% endcapture %}
