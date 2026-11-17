@@ -35,7 +35,7 @@ One of the most important moments in this history occurred on May 8, 2026, when 
   image-path="ellis building 2.jpg"
 %}
 
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
+Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home. 
 
 ## What Changed
 
@@ -106,9 +106,10 @@ Understanding this history means looking beyond a building's name or a donor's c
 
 
 {% capture bibliography %}
-- Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
-- Replace this with your second source.
-- Replace this with your third source.
+1. University of New Mexico Newsroom. “University of New Mexico Receives Largest Gift in Its History.” May 8, 2026. https://news.unm.edu/news/university-of-new-mexico-receives-largest-gift-in-its-history .
+The James & Gail Ellis School of Business Leadership, University of New Mexico. “University of New Mexico Receives Largest Gift in Its History.” May 8, 2026. https://business.unm.edu/news/highlights/2026/05/unm-major-gift-to-business-school.html .
+ University of New Mexico Newsroom. “Anderson School to Celebrate McKinnon Center for Management Ribbon-Cutting.” May 7, 2018. https://news.unm.edu/news/anderson-school-to-celebrate-mckinnon-center-for-management-ribbon-cutting .
+
 {% endcapture %}
 
 {% include typography/bibliography.html
