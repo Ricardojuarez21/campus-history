@@ -31,7 +31,7 @@ One of the most important moments in this history occurred on May 8, 2026, when 
 {% include images/figure.html
   class="img-center"
   width="100%"
-  caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
+  caption="This is the first image UNM took of the building"
   image-path="ellis building 2.jpg"
 %}
 
