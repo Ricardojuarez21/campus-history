@@ -57,7 +57,7 @@ rsvpticketimage.HEIC" | split: ','
 %}
 
 {% assign headers =
-"Replace with a short slide title,
+"Here's an image of the flyer when the building was rebuilt, and they had a ribbon cutting ceremony,
 Replace with a short slide title,
 Replace with a short slide title" | split: ','
 %}
