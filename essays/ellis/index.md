@@ -57,13 +57,13 @@ rsvpticketimage.HEIC" | split: ','
 %}
 
 {% assign headers =
-"Here's an image of the flyer when the building was rebuilt, and they had a ribbon cutting ceremony,
+"Ellis building flyer,
 Replace with a short slide title,
 Replace with a short slide title" | split: ','
 %}
 
 {% assign captions =
-"Replace this caption. Explain what this slide shows and why it matters. Center for Southwest Research, collection name, box number.|
+"Here's an image of the flyer when the building was rebuilt, and they had a ribbon cutting ceremony.|
 Replace this caption. Every slide needs one. Center for Southwest Research, collection name, box number.|
 Replace this caption. Plain text only in carousels, so spell out the source instead of linking. Center for Southwest Research, collection name, box number." | split: '|'
 %}
