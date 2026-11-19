@@ -58,7 +58,7 @@ rsvpticketimage.HEIC" | split: ','
 
 {% assign headers =
 "Ellis building flyer,
-Ellis building planning, design & construction,
+Ellis building design & construction,
 Ellis rsvp ticket" | split: ','
 %}
 
