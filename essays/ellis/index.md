@@ -51,9 +51,9 @@ The McKinnon Center opened in May 2018, after an 18-month construction project. 
      the collection name and box number instead of linking. -->
 
 {% assign images =
-"sample-archive-photo.jpg,
-sample-second-photo.jpg,
-sample-primary-source.jpg" | split: ','
+"buildingimage1.heic,
+buildingimage2.HEIC,
+rsvpticketimage.HEIC" | split: ','
 %}
 
 {% assign headers =
