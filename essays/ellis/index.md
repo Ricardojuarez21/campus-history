@@ -7,7 +7,7 @@ header-image: ellis-building.jpg
 header-caption: The image came from google
 
 # Fill these in later, once your research is under way.
-card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
+card-description: This research was to see what else people can learn about the James & Gail Ellis School of Business. It matters because it can give more information than it ever did when you would want to search and learn the McKinnoninnon building and its history.
 start:                                   # the year your story begins, shown on the map
 
 # Leave this line as it is.
@@ -35,7 +35,7 @@ One of the most important moments in this history occurred on May 8, 2026, when 
   image-path="ellis building 2.jpg"
 %}
 
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home. 
+
 
 ## What Changed
 
@@ -74,7 +74,6 @@ Here's an image of the rsvp ticket for the ribbon cutting ceremony." | split: '|
   captions=captions
 %}
 
-Delete the carousel if you do not have a set of images that works this way. Three related photographs, a series of floor plans, or a run of newspaper clippings are all good candidates. Two images that need to be compared directly are usually better as a pair than as a carousel.
 
 ## Evidence
 
@@ -96,7 +95,7 @@ For an archival history, the next step would be to consult UNM's Center for Sout
   image-path="secondimagebuilding.jpg"
 %}
 
-Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
+
 
 ## Why This History Matters
 
